@@ -99,6 +99,7 @@ body {
   display: table;
   clear: both;
 }
+/
 
 img:hover {
   opacity: 0.5;
@@ -128,7 +129,7 @@ img:hover {
     width: 100%;
   }
   .topnav a:hover {
-  padding: 14px 26px;
+  padding: 14px 27px;
   }
 }
 
